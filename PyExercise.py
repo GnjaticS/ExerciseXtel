@@ -7,4 +7,5 @@ elif number < 0:
 else:
   print("Zero")
 
+  print("Hello, World")
   print("Merge Test")
