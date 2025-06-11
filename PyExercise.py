@@ -6,3 +6,5 @@ elif number < 0:
   print("Negative")
 else:
   print("Zero")
+
+  print("Hello, World")
